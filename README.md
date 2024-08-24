@@ -1,5 +1,5 @@
 # RestaurantApp 클론코딩
-[우크라이나 깃허브](https://github.com/VitaliiVoitovych/RestaurantAppWpf)
+출처 : [우크라이나 깃허브](https://github.com/VitaliiVoitovych/RestaurantAppWpf)
 
 MvvM관련 블로그링크
 <br>[WPF관련 정리 블로그](https://arong.info/List/List/WPF?id=0)
