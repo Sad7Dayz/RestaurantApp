@@ -1,4 +1,4 @@
-# RestaurantApp 클론코딩 출처 : [우크라이나 깃허브](https://github.com/VitaliiVoitovych/RestaurantAppWpf)
+# RestaurantApp 클론코딩 출처 : [원본 깃허브](https://github.com/VitaliiVoitovych/RestaurantAppWpf)
 
 -Wpf MVVM 링크정리-
 
@@ -8,7 +8,7 @@ MvvM관련 블로그링크
 <br>[WPF MvvM 개발자 안](https://kaki104.tistory.com/830)
 <br>[WPF 자동테스트](https://racer42.tistory.com/150)
 <br>[WPF관련 정리 블로그](https://yeko90.tistory.com/category/c%23/wpf?page=1)
-<br>[WPF예](https://www.technical-recipes.com/category/c-net-2/)
+<br>[WPF예제](https://www.technical-recipes.com/category/c-net-2/)
 
 MvvM관련 유튜브링크
 <br>[WPF oxyplot](https://www.youtube.com/@CExercises)
