@@ -24,4 +24,4 @@ MvvM관련 유튜브링크
 <br>[WPF 디자인](https://www.youtube.com/@_buffer)
 
 MvvM관련 깃허브링크
-<br>[WPF](https://github.com/tyeom)
+<br>[WPF예제](https://github.com/tyeom)
