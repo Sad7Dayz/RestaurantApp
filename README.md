@@ -10,11 +10,11 @@ WPF MVVM 패턴을 활용한 RestaurantApp 클론 코딩 자료와 학습 리소
 
 - [WPF 관련 정리 블로그 - Arong](https://arong.info/List/List/WPF?id=0)
 - [WPF MVVM + Entity Framework CRUD](https://dotnetgenetics.blogspot.com/2021/02/wpf-crud-with-datagrid-mvvm-entity.html)
-- [WPF MVVM 개발자 안](https://kaki104.tistory.com/830)
+- [WPF MVVM 개발자](https://kaki104.tistory.com/830)
 - [WPF 자동 테스트](https://racer42.tistory.com/150)
 - [WPF 관련 정리 블로그 - Yeko](https://yeko90.tistory.com/category/c%23/wpf?page=1)
 - [WPF 예제 모음 - Technical Recipes](https://www.technical-recipes.com/category/c-net-2/)
-
+- [WPF InSideOut & 정리 & 예제]([https://racer42.tistory.com/150](https://jamesnet.dev/))
 ---
 
 ## 🎥 MVVM 관련 유튜브 채널
